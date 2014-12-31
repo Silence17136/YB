@@ -25,6 +25,7 @@ public class Main {
 		for (String st : ss) {
 			System.out.println(st);
 			//1234567
+			//7654321
 		}
 	}
 
