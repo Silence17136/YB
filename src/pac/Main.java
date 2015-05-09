@@ -6,6 +6,7 @@ import java.util.Map;
 
 public class Main {
 	public static void main(String str[]) {
+		int b=1;
 		String s[] = { "app_key", "session", "id", "comment", "sign",
 				"comment_id" };
 		Map<String, String> map = new HashMap<String, String>();
